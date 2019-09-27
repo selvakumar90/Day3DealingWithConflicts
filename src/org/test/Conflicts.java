@@ -9,5 +9,8 @@ public static void main(String[] args) {
 	a[0]=2;
 	a[2]=3;
 	System.out.println(a[0]);
+	int l=a.length;
+	System.out.println(l);
+	
 }	
 }
