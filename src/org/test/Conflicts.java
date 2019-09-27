@@ -11,6 +11,9 @@ public static void main(String[] args) {
 	System.out.println(a[0]);
 	int l=a.length;
 	System.out.println(l);
-	
+	for(int i=0; i<a.length;i++) {
+		System.out.println(a[i]);
+	}
+
 }	
 }
